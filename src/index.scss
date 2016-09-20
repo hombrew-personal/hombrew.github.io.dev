@@ -1,0 +1,11 @@
+// common styles for all views
+@import "styles/common/variables";
+@import "styles/common/global";
+
+// common styles for components
+@import "styles/components/buttons";
+@import "styles/components/forms";
+
+// specific styles for views
+@import "styles/layouts/header";
+@import "styles/layouts/footer";
